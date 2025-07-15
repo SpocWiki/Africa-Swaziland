@@ -40,11 +40,18 @@ markerFolder: ./Shiselweni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Swaziland/Counties/Shiselweni|Shiselweni]] 
-- [[../../../../../../_public/geo/Continent/Africa/Swaziland/Counties/Shiselweni.public|Shiselweni.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Shiselweni.internal|Shiselweni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Shiselweni.protect|Shiselweni.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Swaziland/Counties/Shiselweni.private|Shiselweni.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Shiselweni.personal|Shiselweni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Shiselweni.secret|Shiselweni.secret]] 
+
+### #is_/same_as :: [Shiselweni](/_Standards/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Shiselweni.md) 
+
+### #is_/same_as :: [Shiselweni.public](/_public/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Shiselweni.public.md) 
+
+### #is_/same_as :: [Shiselweni.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Shiselweni.internal.md) 
+
+### #is_/same_as :: [Shiselweni.protect](/_protect/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Shiselweni.protect.md) 
+
+### #is_/same_as :: [Shiselweni.private](/_private/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Shiselweni.private.md) 
+
+### #is_/same_as :: [Shiselweni.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Shiselweni.personal.md) 
+
+### #is_/same_as :: [Shiselweni.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Shiselweni.secret.md)
 

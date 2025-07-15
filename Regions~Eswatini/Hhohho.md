@@ -40,11 +40,18 @@ markerFolder: ./Hhohho/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Swaziland/Counties/Hhohho|Hhohho]] 
-- [[../../../../../../_public/geo/Continent/Africa/Swaziland/Counties/Hhohho.public|Hhohho.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Hhohho.internal|Hhohho.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Hhohho.protect|Hhohho.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Swaziland/Counties/Hhohho.private|Hhohho.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Hhohho.personal|Hhohho.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Hhohho.secret|Hhohho.secret]] 
+
+### #is_/same_as :: [Hhohho](/_Standards/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho.md) 
+
+### #is_/same_as :: [Hhohho.public](/_public/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho.public.md) 
+
+### #is_/same_as :: [Hhohho.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho.internal.md) 
+
+### #is_/same_as :: [Hhohho.protect](/_protect/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho.protect.md) 
+
+### #is_/same_as :: [Hhohho.private](/_private/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho.private.md) 
+
+### #is_/same_as :: [Hhohho.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho.personal.md) 
+
+### #is_/same_as :: [Hhohho.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho.secret.md)
 

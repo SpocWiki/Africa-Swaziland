@@ -40,11 +40,18 @@ markerFolder: ./Lubombo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Swaziland/Counties/Lubombo|Lubombo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Swaziland/Counties/Lubombo.public|Lubombo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Lubombo.internal|Lubombo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Lubombo.protect|Lubombo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Swaziland/Counties/Lubombo.private|Lubombo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Lubombo.personal|Lubombo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Lubombo.secret|Lubombo.secret]] 
+
+### #is_/same_as :: [Lubombo](/_Standards/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Lubombo.md) 
+
+### #is_/same_as :: [Lubombo.public](/_public/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Lubombo.public.md) 
+
+### #is_/same_as :: [Lubombo.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Lubombo.internal.md) 
+
+### #is_/same_as :: [Lubombo.protect](/_protect/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Lubombo.protect.md) 
+
+### #is_/same_as :: [Lubombo.private](/_private/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Lubombo.private.md) 
+
+### #is_/same_as :: [Lubombo.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Lubombo.personal.md) 
+
+### #is_/same_as :: [Lubombo.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Lubombo.secret.md)
 

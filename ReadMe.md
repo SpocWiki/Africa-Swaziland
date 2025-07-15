@@ -37,10 +37,4 @@ Capital :: [[Mbabane]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Swaziland|Swaziland]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~South/Swaziland.internal|Swaziland.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~South/Swaziland.protect|Swaziland.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~South/Swaziland.private|Swaziland.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~South/Swaziland.personal|Swaziland.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~South/Swaziland.secret|Swaziland.secret]] 
+

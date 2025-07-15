@@ -40,11 +40,18 @@ markerFolder: ./Manzini/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Swaziland/Counties/Manzini|Manzini]] 
-- [[../../../../../../_public/geo/Continent/Africa/Swaziland/Counties/Manzini.public|Manzini.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Manzini.internal|Manzini.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Manzini.protect|Manzini.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Swaziland/Counties/Manzini.private|Manzini.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Manzini.personal|Manzini.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Manzini.secret|Manzini.secret]] 
+
+### #is_/same_as :: [Manzini](/_Standards/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Manzini.md) 
+
+### #is_/same_as :: [Manzini.public](/_public/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Manzini.public.md) 
+
+### #is_/same_as :: [Manzini.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Manzini.internal.md) 
+
+### #is_/same_as :: [Manzini.protect](/_protect/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Manzini.protect.md) 
+
+### #is_/same_as :: [Manzini.private](/_private/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Manzini.private.md) 
+
+### #is_/same_as :: [Manzini.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Manzini.personal.md) 
+
+### #is_/same_as :: [Manzini.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Manzini.secret.md)
 
