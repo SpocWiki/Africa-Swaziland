@@ -51,19 +51,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mbabane)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mbabane](/_Standards/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane|Mbabane]] 
 
-### #is_/same_as :: [Mbabane.public](/_public/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.public|Mbabane.public]] 
 
-### #is_/same_as :: [Mbabane.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.internal|Mbabane.internal]] 
 
-### #is_/same_as :: [Mbabane.protect](/_protect/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.protect|Mbabane.protect]] 
 
-### #is_/same_as :: [Mbabane.private](/_private/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.private|Mbabane.private]] 
 
-### #is_/same_as :: [Mbabane.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.personal|Mbabane.personal]] 
 
-### #is_/same_as :: [Mbabane.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Swaziland/Regions~Eswatini/Hhohho/City/Mbabane.secret|Mbabane.secret]] 
 
