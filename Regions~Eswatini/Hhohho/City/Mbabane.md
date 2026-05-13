@@ -49,7 +49,7 @@ maxZoom: 18
 > It is located in the Hhohho Region, of which it is also the capital. 
 > The average elevation of the city is 1,243 meters. It lies on the MR3 road.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mbabane)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mbabane) 
 
 
 ## Confidential Links & Embeds: 
