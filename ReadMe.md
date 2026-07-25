@@ -163,7 +163,7 @@ contains_the_administrative_territorial_entity:
 anthem: '[[/_Standards/WikiData/WD~Nkulunkulu_Mnikati_wetibusiso_temaSwati,580374|WD~Nkulunkulu_Mnikati_wetibusiso_temaSwati,580374]]'
 geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Eswatini,585509|WD~geography_of_Eswatini,585509]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
@@ -645,7 +645,7 @@ dv_ISO2: SZ
 dv_ISO3: SWZ
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]'
+  - '[[../../../../../WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~South/Swaziland|Swaziland]]'
   - '[[/_public/Earth/Continent/Africa/Africa~South/Swaziland.public|Swaziland.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal|Swaziland.internal]]'
@@ -657,16 +657,16 @@ dv_has_name_en: Swaziland
 dv_has_name_de: Swasiland
 dv_Area-Total: 17363
 dv_Area-Land: 17200
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: SD
 dv_Alcohol-l: 5.7
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 31.1333
 dv_has_place_latitude: -26.3167
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Swaziland
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]'
+- '[[../../../../../WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~South/Swaziland|Swaziland]]'
 - '[[/_public/Earth/Continent/Africa/Africa~South/Swaziland.public|Swaziland.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal|Swaziland.internal]]'
@@ -683,7 +683,7 @@ Unicode_character: 🇸🇿
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Swaziland/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
@@ -707,7 +707,7 @@ markerFile: [[Swaziland]]
 
 ```leaflet
 id: Swaziland_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -733,7 +733,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Mbabane]]  
 ![[Coat_of_arms_of_Swaziland.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Swaziland.mp3|Anthem-Swaziland.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Swaziland.mp3|Anthem-Swaziland.mp3]]
 ![[Flag_of_Swaziland.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
